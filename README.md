@@ -1,8 +1,7 @@
 ## Hola! Hello there! 👋
+:es: Soy un chico que se encuentra aprendiendo sobre un mundo tan interesante como es el Desarrollo Web, aquí puedes ver algunos de mis proyectos.
 
-🇪🇸 Soy un chico que se encuentra aprendiendo sobre un mundo tan interesante como es el Desarrollo Web, aquí puedes ver algunos de mis proyectos.
-
-🇬🇧 I'm a guy learning about the interesting world of Web Development. Check out some of my projects here.
+:uk: I'm a guy learning about the interesting world of Web Development. Check out some of my projects here.
 
 <!--
 **chemicola/chemicola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
